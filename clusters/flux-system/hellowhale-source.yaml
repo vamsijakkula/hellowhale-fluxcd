@@ -7,5 +7,5 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: master
+    branch: main
   url: https://github.com/vamsijakkula/hellowhale-fluxcd
